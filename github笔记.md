@@ -1,0 +1,1 @@
+<div><div><div>github中预览模式下 回车不会 显示换行,</div><div>所以 需要对数据 进行处理.</div><div>将数据复制到随便那个邮箱 "写信",使用 '&lt;/&gt;'&nbsp; 添加html标签,</div><div>就可以 在预览模式下换行, 但是 数据是被修改了的,&nbsp;</div><div>所以要看原来的数据 可以 点击 'Raw' 按钮进行复制.</div><div>或者反向使用&lt;/&gt;;</div><div>而且 文件名 要以 .md 为后缀.</div></div></div>
